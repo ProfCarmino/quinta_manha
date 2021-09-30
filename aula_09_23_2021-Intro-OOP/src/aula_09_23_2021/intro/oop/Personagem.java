@@ -120,6 +120,4 @@ public class Personagem {
         System.out.println(this.getNome() + " está dormindo a " + valor_dormir);
         Status();
     }
-    
-  
 }
